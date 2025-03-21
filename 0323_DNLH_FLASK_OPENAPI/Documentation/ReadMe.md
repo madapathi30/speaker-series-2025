@@ -4,7 +4,7 @@
 
 
 
-## Event URL: [https://www.meetup.com/global-ai-hyderabad/events/306606120](hhttps://www.meetup.com/global-ai-hyderabad/events/306606120)
+## Event URL: [https://www.meetup.com/global-ai-hyderabad/events/306606120](https://www.meetup.com/global-ai-hyderabad/events/306606120)
 
 ## YouTube URL: [https://www.youtube.com/live/RUeaM9Rix60](https://www.youtube.com/live/RUeaM9Rix60)
 
