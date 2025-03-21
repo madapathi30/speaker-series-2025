@@ -1,12 +1,12 @@
-# 📢 Dot Net Learners House Meetup – Monthly Event - Mar 2025
+# Global AI Hyderabad - Monthly Online Event - Mar 2025
 
 ## Date Time: 23-Mar-2025 at 09:00 AM IST
 
 
 
-## Event URL: [https://www.meetup.com/dot-net-learners-house-hyderabad/events/304750920](https://www.meetup.com/dot-net-learners-house-hyderabad/events/304750920)
+## Event URL: [https://www.meetup.com/global-ai-hyderabad/events/306606120](hhttps://www.meetup.com/global-ai-hyderabad/events/306606120)
 
-## YouTube URL: [https://www.youtube.com/watch?v=rrZqYt2YDFM](https://www.youtube.com/watch?v=rrZqYt2YDFM)
+## YouTube URL: [https://www.youtube.com/live/RUeaM9Rix60](https://www.youtube.com/live/RUeaM9Rix60)
 
 
 
@@ -36,14 +36,17 @@ Session Title: Building Intelligent APIs: Flask API with Azure OpenAI
 
 ### [Section 1: System Architecture Overview – 4 Minutes]
 
-1. Present the Architectural Diagram:  
-   - Display your diagram (using draw.io, Lucidchart, or Mermaid) that shows:  
+1. The Architectural Diagram:
+
+![System Architecture | 100x100](../Documentation/Images/SystemArchitecture.jpg)
+
+    
      - Frontend (React UI) – The user interface (even if it’s not the focus today).  
      - Flask API (Backend) – The core engine handling requests.  
      - Azure OpenAI Service – The service generating AI responses.  
      - Auth0 & Logging (Optional) – For authentication and debugging.
   
-2. Describe the Interaction Flow:  
+2. Describing the Interaction Flow:  
    - “The React UI sends a request to our Flask API. The API processes the request and calls Azure OpenAI to get a response. Once received, the API sends the result back to the UI.”
    - Emphasize the importance of using environment variables to secure keys and configuration.
 
